@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1678431636 source:c:\users\codyr\desktop\intergalactic\main.cpp
+	<iostream>
+	<list>
+	<random>
+	<ctime>
+	<fstream>
+	<ostream>
+	"ship.h"
+	"crew.h"
+	"planet.h"
+	"farm.h"
+	"fuelchamber.h"
+
+1678429049 source:c:\users\codyr\desktop\intergalactic\src\ship.cpp
+	"ship.h"
+
+1678429049 c:\users\codyr\desktop\intergalactic\include\ship.h
+	<list>
+	<iostream>
+	"crew.h"
+
+1678418383 c:\users\codyr\desktop\intergalactic\include\crew.h
+	<string>
+	<iostream>
+
+1678421514 source:c:\users\codyr\desktop\intergalactic\src\crew.cpp
+	"crew.h"
+
+1678431636 c:\users\codyr\desktop\intergalactic\include\planet.h
+	<random>
+	<ctime>
+	<string>
+	<iostream>
+
+1678433685 source:c:\users\codyr\desktop\intergalactic\src\planet.cpp
+	"planet.h"
+
+1678423565 source:c:\users\codyr\desktop\intergalactic\src\farm.cpp
+	"farm.h"
+
+1678423298 c:\users\codyr\desktop\intergalactic\include\farm.h
+	<list>
+	<iostream>
+	<string>
+	<random>
+	<ctime>
+	<crew.h>
+
+1678426253 source:c:\users\codyr\desktop\intergalactic\src\fuelchamber.cpp
+	"fuelchamber.h"
+
+1678426253 c:\users\codyr\desktop\intergalactic\include\fuelchamber.h
+	<list>
+	<iostream>
+	<string>
+	<crew.h>
+
