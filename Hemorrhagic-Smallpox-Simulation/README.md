@@ -3,4 +3,4 @@ a list of mixing groups, and a master list of all people in an interconnected po
 
 
 # Code Recap and Demonstration
-[![Watch the video](https://img.youtube.com/vi/08wK5QHrnuk/0.jpg)](https://www.youtube.com/watch?v=08wK5QHrnuk&t=2s&ab_channel=CodyRabie
+[![Watch the video](https://img.youtube.com/vi/08wK5QHrnuk/0.jpg)](https://www.youtube.com/watch?v=08wK5QHrnuk&t=2s&ab_channel=CodyRabie)
