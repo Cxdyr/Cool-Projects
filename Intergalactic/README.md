@@ -3,5 +3,5 @@ It simulates a ship carrying the last of the human race exploring space flying t
 galaxy with possible viable planets to survive on. It uses a list of crew that belong to the ship, and a few other things that 
 are fairly basic.
 
-# Code Recap and Demonstation
+# Code Recap and Demonstration
 [![Watch the video](https://img.youtube.com/vi/icSCXwH2Has/0.jpg)](https://www.youtube.com/watch?v=icSCXwH2Has&t=366s&ab_channel=CodyRabie)
